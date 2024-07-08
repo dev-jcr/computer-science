@@ -12,6 +12,15 @@
     <img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg"
   ></a>
 </p>
+  <p align="left">
+My progress:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬜ CS Intro.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬜ <a href="">cs50x</a> <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬜ Core CS.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬜ Advanced CS.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬜ Final project.<br>
+<!-- Progress bar ![](https://geps.dev/progress/10) --!>
+  </p>
 </div>
 
 # Contents
